@@ -1,0 +1,10 @@
+1. install date-fns
+command: npm install date-fns
+
+2. Run projectGreen.js
+command: node projectGreen.js
+
+3. username = your username 
+   repo = new repo name which you have created 
+
+note : for this stuff use a new repo
